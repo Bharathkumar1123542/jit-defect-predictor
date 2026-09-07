@@ -1,0 +1,2 @@
+# This file ensures the data/ directory is tracked by Git
+# Actual data files (*.parquet, target_repo/) are gitignored
